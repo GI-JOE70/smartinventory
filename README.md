@@ -19,6 +19,6 @@ SmartInventory is a Flutter app that helps users track and manage inventory in o
 
 ## Getting Started
 
-1. Clone the repo:
+ Clone the repo:
    ```bash
    git clone https://github.com/GI-JOE70/smartinventory.git
